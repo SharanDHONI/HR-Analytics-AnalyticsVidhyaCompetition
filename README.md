@@ -8,6 +8,8 @@ I have cleansed, and plotted all the necessary graphs, added new variable wherev
 
 I was able to achive an Roc score of 0.71 and will be constantly working on improving the same
 
-![image](https://user-images.githubusercontent.com/20862520/155956588-4bfd229f-5ea0-4cfc-94d3-d91239ddb4ac.png)
+
+![image](https://user-images.githubusercontent.com/20862520/155956767-744e0910-3ae8-44b1-a689-2e9b272de935.png)
+
 
 
