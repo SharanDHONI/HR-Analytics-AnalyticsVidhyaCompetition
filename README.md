@@ -6,7 +6,7 @@ The objective of this data is to predict which employees are skilled / fit for g
 
 I have cleansed, and plotted all the necessary graphs, added new variable wherever necessary and have used 9 different models to classify the results. 
 
-I have secured 833rd rank out of 3779 participants as of now. (AV score of 0.46)
+I have secured 833rd rank out of 3779 participants as of now. (AV score of 0.49)
 
 I was able to achive an Roc score of 0.89 and will be constantly working on improving the same.
 
